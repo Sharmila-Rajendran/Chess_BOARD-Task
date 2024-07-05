@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(189, 188, 188);
+}
+
+h1{
+    text-align: center;
+    color:black;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin:30px 450px;
+}
+tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 35px;
+}
+
+.white{
+    background-color: white;
+    cursor: pointer;
+}
+
+.black{
+    background-color: black;
+    cursor: pointer;
+}
+
+.white:hover{
+    background-color: rgb(161, 222, 238);      
+}
+
+.black:hover{
+    background-color: rgb(92, 75, 75);      
+}
